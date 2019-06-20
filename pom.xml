@@ -60,7 +60,7 @@
     <mapr.release.version>6.1.0-mapr</mapr.release.version>
     <ojai.version>3.0-mapr-1808</ojai.version>
     <kerby.version>1.0.0-RC2</kerby.version>
-    <findbugs.version>3.0.0</findbugs.version>
+    <findbugs.version>3.0.5</findbugs.version>
     <netty.tcnative.classifier />
     <commons.io.version>2.4</commons.io.version>
     <junit.version>4.11</junit.version>
@@ -3506,7 +3506,7 @@
           <plugin>
             <groupId>org.codehaus.mojo</groupId>
             <artifactId>findbugs-maven-plugin</artifactId>
-            <version>3.0.0</version>
+            <version>3.0.5</version>
             <configuration>
               <!--
                Enables analysis which takes more memory but finds more bugs.
