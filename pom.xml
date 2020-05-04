@@ -75,7 +75,7 @@
       Currently Hive storage plugin only supports Apache Hive 2.3.2 or vendor specific variants of the
       Apache Hive 2.3.2. If the version is changed, make sure the jars and their dependencies are updated.
     -->
-    <hive.version>2.3.2</hive.version>
+    <hive.version>3.1.2000.7.0.3.0-79</hive.version>
     <hadoop.version>2.7.4</hadoop.version>
     <hbase.version>2.1.1</hbase.version>
     <fmpp.version>1.0</fmpp.version>
